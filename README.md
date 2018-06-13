@@ -2,6 +2,7 @@
 
   <h3> Virtual trial room
    Project Done in shrishti 2018 </h3>
+   <img src='images/secy.png' >
    
   <h2> Abstract</h2>
     
